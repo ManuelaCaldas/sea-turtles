@@ -12,8 +12,9 @@ html {
 
 /* adjust typography defaults */
 body {
-  margin: 0;
+  margin: 1rem;
   font-family: sans-serif;
+  line-height: 1.5;
 }
 
 /* images and videos max out at full width */
@@ -21,4 +22,9 @@ img,
 video {
   height: auto;
   max-width: 100%;
+}
+
+/*adding custom font to headings*/
+h1, h2, h3, h4 {
+  font-family: 'Oswald', sans-serif;
 }
