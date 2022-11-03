@@ -1,4 +1,4 @@
-# Sea Turtles
+#** Sea Turtles**
 
 As we know that climate change is a big problem in the world right now. We have managed to destroy the very place we call how and we need to find a way to fix this, to fix this we must know what the problems. 
 
@@ -9,3 +9,25 @@ So how can we be better? Specifically, we must think twice when buying a souveni
 - Ways to reduce the carbon footprint
 - Ways to reduce single use plastic
 - How to be a conscious consumer
+
+
+## Ways to reduce the carbon footprint
+- Switch off the lights during the day and when you are not using the room
+- Unplug things you are not using 
+- Take the stairs 
+- Dont take long unecessay showers
+- Recycle
+
+## Ways to reduce single use plastic
+- Avoid using plastic straws 
+- Do your shopping with a cloth bag instead of a plastic bag
+- Hang your cloths with wood pegs instead of plastic ones 
+- Recycle 
+- Spread the word!
+
+## How to be a conscious consumer 
+- Shop with cloth bags 
+- Do research on you favourite brands 
+- Avoid anything mentioned in our above lists 
+
+
