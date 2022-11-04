@@ -11,10 +11,55 @@ html {
 }
 
 /* adjust typography defaults */
+<head>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Trirong">
+<style>
 body {
-  margin: 0;
-  font-family: sans-serif;
+  font-family: "Trirong", serif;
 }
+</style>
+</head>
+
+body {
+  background-color: lightgrey;
+  color: blue;
+}
+
+h1 {
+  background-color: #006270;
+  color: white;
+  letter-spacing: 5px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px green;
+   border-radius: 20px;
+  background: #73AD21;
+  padding: 10px;
+  width: absolute;
+  height: 50px;
+  position: relative 
+}
+p {
+  
+  color: white;
+  
+} 
+
+h3 {
+  text-align: center;
+    background-color: #006270;
+  color: white;
+  letter-spacing: 5px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px green;
+   border-radius: 20px;
+  background: #73AD21;
+  padding: 10px;
+  width: absolute;
+  height: 50px;
+  
+}
+
+
 
 /* images and videos max out at full width */
 img,
@@ -29,7 +74,7 @@ video {
 
 i {
   font-size: 28px;
-  color: orange;
+  color: #006270;
   display: inline-block;
   margin-top: 15px;
   cursor: pointer;
@@ -91,19 +136,20 @@ h1 {
 #checklist {
   position: absolute;
   top: 55vh;
-  background: #008ca1;
+  background: #aced93;
   width: 100%;
   padding: 25px;
   transition: all 2s;
 }
 
+
 button {
   display: block;
   margin-top: 20px;
-  background: blue;
+  background: #bff7ff;
   border: none;
   padding: 10px;
-  color: white;
+  color: #007a8d;
   cursor: pointer;
 }
 
