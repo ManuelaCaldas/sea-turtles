@@ -1,22 +1,33 @@
-# Hello Website (blank)
+# **Sea Turtles**
 
-This is a basic static HTML starter project you can build on however you like. No need to save. While you develop your site, your changes will happen 🪄 immediately in the preview window. You can upload assets like images or audio in `assets` to the left. The rest is up to you and your imagination.
+As we know that climate change is a big problem in the world right now. We have managed to destroy the very place we call how and we need to find a way to fix this, to fix this we must know what the problems. 
 
-## What's in this project?
+Sea turtles have been around for 110 million years, surviving the dinosaurs mass extinction and the test of time. It's only with the introduction of  humans that these living dinosaur populations have been threatened. So much so that 6 out of the 7 sea turtle species are classified as endangered. Over the last 200 years, humans have poached turtles- killed them for their shell, eggs and meat. They have been victims of bycatch, caught unwillingly in massive nets intended for fish. Around the world turtles habitats have been destroyed or are currently threatened by sea level rise. Turtle hatchlings are threatened by climate change and light pollution. Full grown Turtles often mistake trash for a snack or simply get caught in it. The list goes on but the one common denominator in all of these is humans. 
 
-← `README.md`: That's this file, where you can tell people what your cool website does and how you built it.
+So how can we be better? Specifically, we must think twice when buying a souvenir such as a shell or coral jewelry. We must purchase and support businesses that have sustainable seafood. We must reduce our carbon footprint and live a more sustainable life. We must eliminate the use of single- use plastic and the improper disposal of our trash. If living by the coast, we must turn off our lights at night and invest in red lights. Overall, we just have to be more connected with nature, cohabitate and respect it. With respect we can solve more than half of the problems listed above.
 
-← `index.html`: This is the main HTML page for your site.
+- Ways to reduce the carbon footprint
+- Ways to reduce single use plastic
+- How to be a conscious consumer
 
-← `style.css`: CSS files add styling rules to your content.
 
-← `script.js`: If you're feeling fancy you can add interactivity to your site with JavaScript.
+## Ways to reduce the carbon footprint
+- Switch off the lights during the day and when you are not using the room
+- Unplug things you are not using 
+- Take the stairs 
+- Dont take long unecessay showers
+- Recycle
 
-![Glitch](https://cdn.glitch.com/a9975ea6-8949-4bab-addb-8a95021dc2da%2FLogo_Color.svg?v=1602781328576)
+## Ways to reduce single use plastic
+- Avoid using plastic straws 
+- Do your shopping with a cloth bag instead of a plastic bag
+- Hang your cloths with wood pegs instead of plastic ones 
+- Recycle 
+- Spread the word!
 
-## You built this with Glitch!
+## How to be a conscious consumer 
+- Shop with cloth bags 
+- Do research on you favourite brands 
+- Avoid anything mentioned in our above lists 
 
-[Glitch](https://glitch.com) is a friendly community where millions of people come together to build web apps and websites.
 
-- Need more help? [Check out our Help Center](https://help.glitch.com/) for answers to any common questions.
-- Ready to make it official? [Become a paid Glitch member](https://glitch.com/pricing) to boost your app with private sharing, more storage and memory, domains and more.

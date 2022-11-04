@@ -3,25 +3,155 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Space+Mono&display=swap" rel="stylesheet">
-    
     <link rel="icon" href="https://glitch.com/favicon.ico" />
 
-    <title>Hello world!</title>
+    <title>Saving the Turtles</title>
+
+    <!-- import Bootstrap icons -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css"
+    />
 
     <!-- import the webpage's stylesheet -->
-    <link rel="stylesheet" href="/style.css" />
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    
-    <!-- import a custom font -->
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap" rel="stylesheet"> 
+    <link rel="stylesheet" href="style.css" />
+
+    <!-- import html2canvas library -->
+    <script
+      src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"
+      defer
+    ></script>
+
+    <script src="script.js" defer></script>
   </head>
   <body>
     <!-- this is the start of content -->
-    <h1>Hello World!</h1>
-    <p>Wow this is where my essay about the band will go!</p>
+
+    <i class="bi bi-arrow-left-square left" onclick="goBack()"></i>
+    <i class="bi bi-arrow-right-square right" onclick="goForward()"></i>
+    
+    <div class="content-container">
+      <!-- three placeholder sections of content -->
+      <section class="full-screen" id="slide-1">
+      <button onclick="openChecklist()">
+        Open Checklist
+      </button>
+        
+        <h1>Saving the Sea Turtles</h1>
+        <p>Sea turtles have been around for 110 million years, surviving the dinosaurs mass extinction and the test of time. It's only with the introduction of humans that these living dinosaur populations have been threatened. So much so that 6 out of the 7 sea turtle species are classified as endangered. Over the last 200 years, humans have poached turtles- killed them for their shell, eggs and meat. They have been victims of bycatch, caught unwillingly in massive nets intended for fish. Around the world turtles habitats have been destroyed or are currently threatened by sea level rise. Turtle hatchlings are threatened by climate change and light pollution. Full grown Turtles often mistake trash for a snack or simply get caught in it. The list goes on but the one common denominator in all of these is humans.
+        </p>
+        <p>
+         So how can we be better? Specifically, we must think twice when buying a souvenir such as a shell or coral jewelry. We must purchase and support businesses that have sustainable seafood. We must reduce our carbon footprint and live a more sustainable life. We must eliminate the use of single- use plastic and the improper disposal of our trash. If living by the coast, we must turn off our lights at night and invest in red lights. Overall, we just have to be more connected with nature, cohabitate and respect it. With respect we can solve more than half of the problems listed above. 
+        </p>
+      </section>
+
+      <section class="full-screen hidden" id="slide-2">
+        <button onclick="openChecklist()">
+          Open Checklist
+        </button>
+        <p>Second piece of content.</p>
+      </section>
+
+      <section class="full-screen hidden" id="slide-3">
+        <button onclick="openChecklist()">
+          Open Checklist
+        </button>
+        <p>Third piece of content.</p>
+      </section>
+      
+      <section class="full-screen" id="slide-4">
+      <button onclick="openChecklist()">
+        Open Checklist
+      </button>
+      </section>
+      
+    </div>
+
+    <section id="checklist" class="noheight">
+      <h3>
+        How to do your part 
+      </h3>
+      <p>
+        Reduce your carbon foot print 
+      <p>
+      <div>
+        <input type="checkbox" name="check1" />
+        <label for="check1"></label>
+      </div>
+
+      <div>
+        <input type="checkbox" name="check2" />
+        <label for="check2"></label>
+      </div>
+
+      <div>
+        <input type="checkbox" name="check3" />
+        <label for="check3"></label>
+      </div>
+      <div>
+        <input type="checkbox" name="check1" />
+        <label for="check4"></label>
+      </div>
+
+      <div>
+        <input type="checkbox" name="check2" />
+        <label for="check5"></label>
+      </div>
+<p>
+  Remove single use plastic 
+      </p>
+     <div>
+        <input type="checkbox" name="check1" />
+        <label for="check1"></label>
+      </div>
+
+      <div>
+        <input type="checkbox" name="check2" />
+        <label for="check2"></label>
+      </div>
+
+      <div>
+        <input type="checkbox" name="check3" />
+        <label for="check3"></label>
+      </div>
+      <div>
+        <input type="checkbox" name="check1" />
+        <label for="check4"></label>
+      </div>
+
+      <div>
+        <input type="checkbox" name="check2" />
+        <label for="check5"></label>
+      </div>
+      <p>
+        Become a concious consumer
+      </p>
+      <div>
+        <input type="checkbox" name="check1" />
+        <label for="check1"></label>
+      </div>
+
+      <div>
+        <input type="checkbox" name="check2" />
+        <label for="check2"></label>
+      </div>
+
+      <div>
+        <input type="checkbox" name="check3" />
+        <label for="check3"></label>
+      </div>
+      <div>
+        <input type="checkbox" name="check1" />
+        <label for="check4"></label>
+      </div>
+
+      <div>
+        <input type="checkbox" name="check2" />
+        <label for="check5"></label>
+      </div>
+      <button class="download-button" onclick="downloadPNG()">
+        Download a PNG of your Checklist
+      </button>
+    </section>
   </body>
 </html>
