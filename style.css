@@ -135,11 +135,11 @@ i:hover {
 
 
 #slide-3 {
-  background: #E9B44C;
+  background: #6293c2;
 }
 
 #slide-4 {
-  background: blue 
+  background:#55a6e0
 }
 
 #checklist {
@@ -177,4 +177,5 @@ button:hover {
   visibility: visible;
   overflow: hidden;
 }
+
 
