@@ -44,7 +44,11 @@ p {
   color: white;
   
 } 
-
+h2 {
+  text-align:center;
+  color:white;
+  
+}
 h3 {
   text-align: center;
     background-color: #006270;
@@ -124,7 +128,11 @@ i:hover {
 
 #slide-2 {
   background: #92ba92;
+  Text-align: ;
+  width: absolute;
+  height: absolute
 }
+
 
 #slide-3 {
   background: #E9B44C;
