@@ -6,7 +6,7 @@ Sea turtles have been around for 110 million years, surviving the dinosaurs mass
 
 So how can we be better? Specifically, we must think twice when buying a souvenir such as a shell or coral jewelry. We must purchase and support businesses that have sustainable seafood. We must reduce our carbon footprint and live a more sustainable life. We must eliminate the use of single- use plastic and the improper disposal of our trash. If living by the coast, we must turn off our lights at night and invest in red lights. Overall, we just have to be more connected with nature, cohabitate and respect it. With respect we can solve more than half of the problems listed above.
 
-- Ways to reduce the carbon footprint
+- Ways to reduce the carbon footprint 
 - Ways to reduce single use plastic
 - How to be a conscious consumer
 
@@ -17,17 +17,23 @@ So how can we be better? Specifically, we must think twice when buying a souveni
 - Take the stairs 
 - Dont take long unecessay showers
 - Recycle
+![recycle](https://user-images.githubusercontent.com/112990414/201233131-63586bd5-16fa-4960-8114-073f62c8e008.jpeg)
+
 
 ## Ways to reduce single use plastic
 - Avoid using plastic straws 
 - Do your shopping with a cloth bag instead of a plastic bag
 - Hang your cloths with wood pegs instead of plastic ones 
 - Recycle 
-- Spread the word!
+- Spread the word!  
+![clean-beach-plastic-hand-picking-up-bottle-trash-putting-bag-recycle](https://user-images.githubusercontent.com/112990414/201232537-89148fb5-e40b-4b5b-976a-a8cf8e9cc629.jpg)
+
 
 ## How to be a conscious consumer 
 - Shop with cloth bags 
 - Do research on you favourite brands 
 - Avoid anything mentioned in our above lists 
+![study-better-tile_tcm7-279421](https://user-images.githubusercontent.com/112990414/201233452-c1856a9c-ac52-4985-aad8-a8a2e711f50a.jpg)
+
 
 
