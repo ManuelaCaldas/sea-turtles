@@ -12,6 +12,7 @@ html {
 
 /* adjust typography defaults */
 <head>
+
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Trirong">
   <style>
     body {
@@ -46,6 +47,7 @@ h1 {
 p {
   color: white;
   font-family: "Verdana", sans-serif;
+
 } 
 h2 {
   text-align:center;
@@ -150,6 +152,7 @@ i:hover {
 
 #checklist {
   position: absolute;
+
   top: 93vh;
   background: #8DCEC9;
   width: 100%;
@@ -184,6 +187,3 @@ button:hover {
   overflow: hidden;
   font-family: "Courier New", monospace;
 }
-
-
-
