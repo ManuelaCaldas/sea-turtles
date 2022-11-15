@@ -12,12 +12,16 @@ html {
 
 /* adjust typography defaults */
 <head>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Trirong">
-<style>
-body {
-  font-family: "Trirong", serif;
-}
-</style>
+
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Trirong">
+  <style>
+    body {
+      font-family: "Trirong", serif;
+      font-family: "Brush Script MT", sans-serif;
+      font-family: "Verdana", sans-serif;
+      font-family: "Courier New", monospace;
+    }
+  </style>
 </head>
 
 body {
@@ -29,6 +33,7 @@ h1 {
   text-align: center;
   background-color: #006270;
   color: white;
+  font-family: "Brush Script MT", sans-serif;
   letter-spacing: 5px;
     text-transform: uppercase;
     text-shadow: 2px 2px green;
@@ -40,14 +45,14 @@ h1 {
   position: relative 
 }
 p {
-  
   color: white;
-  
+  font-family: "Verdana", sans-serif;
+
 } 
 h2 {
   text-align:center;
   color:white;
-  
+  font-family: "Verdana", sans-serif;
 }
 h3 {
   text-align: center;
@@ -61,7 +66,7 @@ h3 {
   padding: 10px;
   width: absolute;
   height: 50px;
-  
+  font-family: "Verdana", sans-serif;
 }
 
 
@@ -124,33 +129,37 @@ i:hover {
 
 #slide-1 {
   background: #84B59F;
+  height: 945px;
 }
 
 #slide-2 {
-  background: #92ba92;
+  background: #CCCC23;
   Text-align: ;
   width: absolute;
-  height: absolute
+  height: 945px;
 }
 
 
 #slide-3 {
-  background: #6293c2;
+  background: #55a6e0;
+  height: 945px;
 }
 
 #slide-4 {
-  background:#55a6e0
+  background:#D47BE7;
+  height: 945px;
 }
 
 #checklist {
   position: absolute;
-  top: 55vh;
-  background: #3e9988;
+
+  top: 93vh;
+  background: #8DCEC9;
   width: 100%;
   padding: 25px;
   transition: all 2s;
+  border-radius: 20px;
 }
-
 
 button {
   display: block;
@@ -173,9 +182,8 @@ button:hover {
 }
 
 #checklist.fullheight {
-  height: 60vh;
+  height: 480vh;
   visibility: visible;
   overflow: hidden;
+  font-family: "Courier New", monospace;
 }
-
-
