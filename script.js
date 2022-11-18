@@ -37,10 +37,3 @@ const openChecklist = () => {
   checklist.classList.add("fullheight");
   }
 };
-
-const closeChecklist = () => {
-  let checklist = document.querySelector("#checklist");
-  checklist.classList.remove("fullheight");
-  checklist.classList.add("noheight");
-  }
-};
