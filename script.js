@@ -40,7 +40,7 @@ const openChecklist = () => {
 
 const closeChecklist = () => {
   let checklist = document.querySelector("#checklist");
-  checklist.classList.remove("noheight");
-  checklist.classList.add("fullheight");
+  checklist.classList.remove("fullheight");
+  checklist.classList.add("noheight");
   }
 };
