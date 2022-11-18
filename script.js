@@ -31,16 +31,8 @@ const downloadPNG = () => {
   )
 };
 
-const toggleChecklist = () => {
-  let myChecklist = document.querySelector("#checklist");
-  myChecklist.classList.toggle("hidden");
-  
-  let toggleButton = document.querySelector("#toggle-checklist");
-  
-  if (myChecklist.classList.contains("hidden")) {
-    toggleButton.innerHTML = "Open Checklist";
-  } else {
-    toggleButton.innerHTML = "Close Checklist";
-  }
-  
-};
+const openChecklist = () => {
+  let checklist = document.querySelector("#checklist");
+  checklist.classList.remove("noheight");
+  checklist.classList.add("fullheight");
+}
